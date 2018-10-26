@@ -18,7 +18,7 @@ Membaca artikel dan menonton tutorial memang dapat membantu, tetapi apa yang leb
 [🇮🇩](translations/README.id.md)
 [🇫🇷](translations/README.fr.md)
 [🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
+[CA](translations/README.ca.md)
 [🇳🇱](translations/README.nl.md)
 [🇱🇹](translations/README.lt.md)
 [🇷🇺](translations/README.ru.md)
